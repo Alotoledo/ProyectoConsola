@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ahorcadoconsolascharp", "ConsoleApp4\ahorcadoconsolascharp.csproj", "{0328343B-6D8D-4D4D-8102-5C60C3468297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0328343B-6D8D-4D4D-8102-5C60C3468297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0328343B-6D8D-4D4D-8102-5C60C3468297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0328343B-6D8D-4D4D-8102-5C60C3468297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0328343B-6D8D-4D4D-8102-5C60C3468297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6270BC2-23EA-48B2-9420-0165E4603E09}
+	EndGlobalSection
+EndGlobal
